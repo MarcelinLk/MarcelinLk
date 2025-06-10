@@ -30,7 +30,7 @@
 ### 📫 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/SEUUSUARIO](https://linkedin.com/in/marcelo-de-borba-199148124))
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marcelobpfilho@hotmail.com)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marceloborbapfilho@gmail.com)
 
 ---
 
@@ -39,5 +39,5 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=FF6F00&center=true&vCenter=true&width=435&lines=Em+constante+evolução...;Focado+no+que+importa%2C+sem+pressa." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=FF6F00&center=true&vCenter=true&width=435&lines=Em+constante+evolução...;-Focado+no+que+importa%2C+sem+pressa." alt="Typing SVG" />
 </p>
