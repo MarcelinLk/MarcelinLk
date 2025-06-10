@@ -39,5 +39,5 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=FF6F00&center=true&width=435&lines=Em+constante+evolução...;Focado+no+que+importa%2C+sem+pressa.">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&duration=3000&pause=500&color=FF6F00&center=true&width=435&lines=Em+constante+evolução...;Focado+no+que+importa%2C+sem+pressa.">
 </p>
